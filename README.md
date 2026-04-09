@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Computer Science Student | DSA Practitioner | Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Practicing+DSA+every+day;Striving+every+day+to+become+a+better+developer.;Learning+JavaScript+deeply;Always+curious%2C+always+learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Practicing+DSA+every+day; Striving+every+day+to+become+a+better+developer.;Learning+JavaScript+deeply;Always+curious%2C+always+learning!" alt="Typing SVG" />
 </p>
 
 <p align="left">
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:diptimishrao46@gmail.com">
+  <a href="mailto:diptimishra046@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
