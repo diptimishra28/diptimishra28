@@ -2,10 +2,8 @@
 <h3 align="center">🎓 Computer Science Student | DSA Practitioner | Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Practicing+DSA+every+day;Building+Backend+with+Node.js+%26+MongoDB;Learning+JavaScript+deeply;Always+curious%2C+always+learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Practicing+DSA+every+day;Striving+every+day+to+become+a+better+developer.;Learning+JavaScript+deeply;Always+curious%2C+always+learning!" alt="Typing SVG" />
 </p>
-
-<img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=diptimishra28&label=Profile%20views&color=0e75b6&style=flat" alt="diptimishra28" />
@@ -15,12 +13,12 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm a **Computer Science student** focused on **problem-solving and development**
+- 🎓 I'm a **Computer Science student** focused on **problem-solving and backend development**
 - 🧩 Actively practicing **Data Structures & Algorithms (DSA)** to build strong problem-solving skills
 - 🔧 Working on **Backend Development** — Node.js, Express.js, and MongoDB (MERN stack backend)
 - 📚 Currently deepening my understanding of **JavaScript** and backend concepts
 - 🚀 All of my projects are available at **[github.com/diptimishra28](https://github.com/diptimishra28)**
-- 📄 Check out my resume: **[View Resume](https://drive.google.com/file/d/1Taqzj-pYe6vdkv6GCMOCgxra95fJmpOP/view?usp=sharing)**
+- 📄 Check out my resume: **[View Resume](https://github.com/diptimishra28/diptimishra28/raw/main/Dipti_Resume(3).pdf)**
 - 📫 Reach me at **diptimishrao46@gmail.com**
 - ⚡ Fun fact: I believe consistent small steps lead to big achievements!
 
