@@ -19,7 +19,7 @@
 - 📚 Currently deepening my understanding of **JavaScript** and backend concepts
 - 🚀 All of my projects are available at **[github.com/diptimishra28](https://github.com/diptimishra28)**
 - 📄 Check out my resume: **[View Resume](https://github.com/diptimishra28/diptimishra28/raw/main/Dipti_Resume(3).pdf)**
-- 📫 Reach me at **diptimishrao46@gmail.com**
+- 📫 Reach me at **diptimishra046@gmail.com**
 - ⚡ Fun fact: I believe consistent small steps lead to big achievements!
 
 ---
