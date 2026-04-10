@@ -1,33 +1,12 @@
 
-● <!-- Top Wave -->
+  <!-- Top Wave -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:a960ee&height=120&section=header"/>
 
-  <!-- Name Left + Anime Girl Right -->
-  <table border="0" cellpadding="10">
-  <tr>
-  <td valign="middle" width="55%">
+  <h1 align="center">Hi 👋, I am Dipti Kumari</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0E75B6&vCenter=t
-  rue&width=480&lines=Hi+%F0%9F%91%8B+I'm+Dipti+Kumari!;Welcome+to+my+profile!" alt="Typing Name"/>
-
-  <br/>
-
-  **🎓 CS Student | DSA Practitioner | Backend Developer**
-
-  <br/><br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=a960ee&vCenter=true&width=440&lines=Pract
-  icing+DSA+every+day+%F0%9F%A7%A9;Striving+to+be+a+better+developer+%F0%9F%9A%80;Learning+JavaScript+deeply+%F0%9F%92%9B;Always+cu
-  rious%2C+always+learning+%E2%9C%A8" alt="Typing SVG"/>
-
-  </td>
-  <td align="center" width="45%">
-
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Anime Girl Coding"/>
-
-  </td>
-  </tr>
-  </table>
+  <p align="center">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Anime Girl Coding"/>
+  </p>
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=diptimishra28&label=Profile%20views&color=a960ee&style=flat" alt="diptimishra28"
@@ -70,93 +49,29 @@
   ### 💡 Technical Skills
 
   **🗣️ Languages**
-  <p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45"
-  height="45"/><br/>
-      <sub><b>Java</b></sub>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  alt="JavaScript" width="45" height="45"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45"
-  height="45"/><br/>
-      <sub><b>C</b></sub>
-    </a>
-  </p>
+
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
   **🌐 Web Development**
-  <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"
-  width="45" height="45"/><br/>
-      <sub><b>HTML5</b></sub>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"
-  width="45" height="45"/><br/>
-      <sub><b>CSS3</b></sub>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  alt="JavaScript" width="45" height="45"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"
-  width="45" height="45"/><br/>
-      <sub><b>Node.js</b></sub>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-  alt="Express.js" width="45" height="45"/><br/>
-      <sub><b>Express.js</b></sub>
-    </a>
-  </p>
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
   **🛠️ Developer Tools**
-  <p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/><br/>
-      <sub><b>Git</b></sub>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45"
-   height="45"/><br/>
-      <sub><b>GitHub</b></sub>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"
-  width="45" height="45"/><br/>
-      <sub><b>VS Code</b></sub>
-    </a>
-  </p>
+
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
   **🗄️ Database**
-  <p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"
-  width="45" height="45"/><br/>
-      <sub><b>MySQL</b></sub>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-  alt="MongoDB" width="45" height="45"/><br/>
-      <sub><b>MongoDB</b></sub>
-    </a>
-  </p>
+
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
   ---
 
