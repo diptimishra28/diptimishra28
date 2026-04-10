@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Computer Science Student | DSA Practitioner | Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Practicing+DSA+every+day;Striving+every+day+to+become+a+better+developer.;Learning+JavaScript+deeply;Always+curious%2C+always+learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Practicing+DSA+every+day;Striving+every+day+to+become+a+better+developer.;Learning+JavaScript+deeply;Always+curious%2C+always+learning!" alt="Typing SVG" />
 </p>
 
 <p align="left">
