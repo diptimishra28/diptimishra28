@@ -4,12 +4,11 @@
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Anime Girl Coding"/>
   </p>
 
-  <p align="center">
+   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=6
   50&lines=Practicing+DSA+every+day;Striving+every+day+to+become+a+better+developer.;Learning+JavaScript+deeply;Always+curious%2C+a
   lways+learning!" alt="Typing Animation" />
   </p>
-  ---
 
   ### 👩‍💻 About Me
 
