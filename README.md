@@ -4,11 +4,7 @@
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Anime Girl Coding"/>
   </p>
 
-   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=6
-  50&lines=Practicing+DSA+every+day;Striving+every+day+to+become+a+better+developer.;Learning+JavaScript+deeply;Always+curious%2C+a
-  lways+learning!" alt="Typing Animation" />
-  </p>
+  
 
   ### 👩‍💻 About Me
 
@@ -71,21 +67,6 @@
   ---
 
   ### 📊 GitHub Stats
-
-  <p align="left">
-    <a href="https://github.com/diptimishra28" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diptimishra28&show_icons=true&locale=en&layout=compac
-  t&theme=tokyonight" alt="Top Languages" />
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/diptimishra28" target="_blank">
-      <img align="center"
-  src="https://github-readme-stats.vercel.app/api?username=diptimishra28&show_icons=true&locale=en&theme=tokyonight" alt="GitHub
-  Stats" />
-    </a>
-  </p>
 
   <p>
     <a href="https://github.com/diptimishra28" target="_blank">
