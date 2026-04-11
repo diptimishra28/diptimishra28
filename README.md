@@ -1,15 +1,16 @@
-
-● <h1 align="center">Hi 👋, I am Dipti Kumari</h1>
+ <h1 align="center">Hi 👋, I am Dipti Kumari</h1>
 
   <p align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Anime Girl Coding"/>
   </p>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=6
-  50&lines=Practicing+DSA+every+day;Striving+every+day+to+become+a+better+developer.;Learning+JavaScript+deeply;Always+curious%2C+a
-  lways+learning!" alt="Typing SVG" />
-  </p>
+  <div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&widt
+  h=650&lines=Practicing+DSA+every+day;Striving+every+day+to+become+a+better+developer.;Learning+JavaScript+deeply;Always+curious%2
+  C+always+learning!)](https://git.io/typing-svg)
+
+  </div>
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=diptimishra28&label=Profile%20views&color=a960ee&style=flat" alt="diptimishra28"
@@ -97,8 +98,7 @@
 
   <p>
     <a href="https://github.com/diptimishra28" target="_blank">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diptimishra28&theme=tokyonight" alt="GitHub
-  Streak" />
+      <img align="center" src="https://streak-stats.demolab.com?user=diptimishra28&theme=tokyonight" alt="GitHub Streak" />
     </a>
   </p>
 
