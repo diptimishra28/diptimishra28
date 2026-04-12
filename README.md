@@ -8,7 +8,7 @@
 
   ### 👩‍💻 About Me
 
-  - 🎓 I'm a **Computer Science student** focused on **problem-solving and backend development**
+  - 🎓 I'm a **Computer Science student** focused on **problem-solving and fullstack development**
   - 🧩 Actively practicing **Data Structures & Algorithms (DSA)** to build strong problem-solving skills
   - 🔧 Working on **Backend Development** — Node.js, Express.js, and MongoDB (MERN stack backend)
   - 📚 Currently deepening my understanding of **JavaScript** and backend concepts
